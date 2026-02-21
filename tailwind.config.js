@@ -19,7 +19,7 @@ module.exports = {
       },
       colors: {
         primery: '#EE5514',
-        secondary: '#1A0A03'
+        secondary: '#1a0a0385'
       },
     },
   },
